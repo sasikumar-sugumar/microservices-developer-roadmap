@@ -3,7 +3,13 @@ Roadmap for becoming a Microservice Developer in 2017
 
 ## ☑ TODO
 
-- [X] Add Frontend Roadmap
-- [X] Add Backend Roadmap
-- [X] Add DevOps Roadmap
-- [ ] Add relevant resources for each
+- [X] Repository Definition 
+- [ ] Service Discovery 
+- [ ] API Gateway
+- [ ] Process Interaction
+- [ ] Client-Side Loadbalancer
+- [ ] Circuit-Breaker
+- [ ] Polygot
+- [ ] Event-Sourcing
+- [ ] Deployment
+- [ ] Monitoring
