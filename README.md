@@ -10,10 +10,10 @@ Roadmap for becoming a Microservice Developer in 2017
 - [X] Repository Definition 
 - [X] Service Discovery 
 - [X] API Gateway
-- [ ] Process Interaction
-- [ ] Client-Side Loadbalancer
-- [ ] Circuit-Breaker
-- [ ] Polygot
-- [ ] Event-Sourcing
+- [X] Process Interaction
+- [X] Client-Side Loadbalancer
+- [X] Circuit-Breaker
+- [X] Polygot
+- [X] Event-Sourcing
 - [ ] Deployment
 - [ ] Monitoring
