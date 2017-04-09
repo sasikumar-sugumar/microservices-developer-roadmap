@@ -1,11 +1,15 @@
 # microservices-developer-roadmap
 Roadmap for becoming a Microservice Developer in 2017
 
+## Service Discovery
+
+![](https://github.com/sasikumar-sugumar/microservices-developer-roadmap/blob/master/image/discovery-api-transparent.png)
+
 ## ☑ TODO
 
 - [X] Repository Definition 
-- [ ] Service Discovery 
-- [ ] API Gateway
+- [X] Service Discovery 
+- [X] API Gateway
 - [ ] Process Interaction
 - [ ] Client-Side Loadbalancer
 - [ ] Circuit-Breaker
